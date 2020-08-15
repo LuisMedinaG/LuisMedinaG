@@ -3,8 +3,6 @@ LuisMedina
 
 -------------------     ----------------------------
 Guadalajara, Mex              humberto@alumno.udg.mx
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
 -------------------     ----------------------------
 
 Education
