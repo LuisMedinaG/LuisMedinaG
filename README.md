@@ -1,21 +1,14 @@
-LuisMedina
-==========
+### Hi there
 
--------------------     ----------------------------
-Guadalajara, Mex              humberto@alumno.udg.mx
--------------------     ----------------------------
+**@LuisMedinaG**
 
-Education
----------
+Here are some ideas to get you started:
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-Experience
-----------
-
-**Your Most Recent Work Experience:**
-
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
