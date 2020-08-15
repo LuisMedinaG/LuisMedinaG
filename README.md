@@ -3,7 +3,7 @@
 <p><em>Intern at <a href="https://www.oracle.com/index.html">Oracle</a>
 <p><em>Bachelor student at <a href="http://www.udg.mx/en">University of Guadalajara</a>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-luis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-medina-g/)](https://www.linkedin.com/in/luis-medina-g/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-LuisMedinaG-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-medina-g/)](https://www.linkedin.com/in/luis-medina-g/)
 ![GitHub followers](https://img.shields.io/github/followers/luismedinag?label=Follow&style=social)
   
 ### A little more about me...
@@ -13,7 +13,7 @@ const luis = {
   code: [Python, C++, C, PHP, HTML, CSS, JavaScript, C#],
   tools: [OpenCV, MySQL, ],
   techCommunities: {
-                      mentor: "OMIJAL"
+                      mentor: "![https://www.facebook.com/Grupo-de-Olimpiadas-de-Programaci%C3%B3n-CUCEI-104984981076187/](GOP)"
   },
 }
 ```
