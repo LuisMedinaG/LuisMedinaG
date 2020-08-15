@@ -12,8 +12,9 @@
 const luis = {
   code: [Python, C++, C, PHP, HTML, CSS, JavaScript, C#],
   tools: [MySQL, Laravel, React, OpenCV, Git, Unix/Bash, VI],
-  techCommunities: {
-                      mentor: "```![https://www.facebook.com/Grupo-de-Olimpiadas-de-Programaci%C3%B3n-CUCEI-104984981076187/](GOP)```"
-  },
+  communities: {
+                    memeber: "university competitive programming club",
+                    mentor: "CUCEI Programming Olympics Group"
+                },
 }
 ```
