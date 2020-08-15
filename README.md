@@ -13,7 +13,7 @@ const luis = {
   code: [Python, C++, C, PHP, HTML, CSS, JavaScript, C#],
   tools: [MySQL, Laravel, React, OpenCV, Git, Unix/Bash, VI],
   communities: {
-                    memeber: "University competitive programming club",
+                    memeber: "Algorithms Club of the University.",
                     mentor: "CUCEI Programming Olympics Group"
                 },
 }
