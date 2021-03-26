@@ -10,8 +10,8 @@
 
 ```javascript
 const luis = {
-  code: [Python, C++, C, PHP, HTML, CSS, JavaScript, C#],
-  tools: [MySQL, Laravel, React, OpenCV, Git, Unix/Bash, VI],
+  code: [Python, Java, C++, C, PHP, HTML, CSS, JavaScript, C#],
+  tools: [Laravel, React, OpenCV, MySQL, Git, Unix/Bash, VI],
   communities: {
                     memeber: "Algorithms Club of the University",
                     mentor: "CUCEI Programming Olympics Group"
