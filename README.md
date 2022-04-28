@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Luis Medina</h2>
 
-<p><em>Technical Memeter <a href="https://www.oracle.com/index.html">@Oracle</a>
+<p><em>Member Technical Staff <a href="https://www.oracle.com/index.html">@Oracle</a>
 </br><em>B.S. Computer Engineering at <a href="http://www.udg.mx/en">University of Guadalajara</a></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-LuisMedinaG-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-medina-g/)](https://www.linkedin.com/in/luis-medina-g/)
