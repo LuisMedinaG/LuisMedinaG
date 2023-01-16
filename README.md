@@ -14,7 +14,7 @@ const luis = {
   tools: [Docker, Kubernetes, Terraform, Git, Unix/Bash, VIM],
   frameworks: [Laravel, React],
   libraries: [OpenCV, numpy],
-  cloud: "Oracle Cloud Infrastructure (OCI)",
+  cloud: ["Oracle Cloud Infrastructure (OCI)", "AWS"],
   communities: {
                     memeber: "Algorithms Club of the University of Guadalajara",
                     tutor: "Jalisco Mexican Olympiad in Informatics (OMIJAL)"
